@@ -1,0 +1,4 @@
+baseURL = "https://it.mathiasmoeller.com/"
+languageCode = "en-us"
+title = "Mathias Möller - Software Developer"
+theme = "uilite"

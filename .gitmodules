@@ -1,0 +1,3 @@
+[submodule "themes/uilite"]
+	path = themes/uilite
+	url = git@github.com:uicardiodev/hugo-uilite.git

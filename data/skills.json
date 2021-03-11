@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Vue.js" : "90",
+		"TypeScript" : "80",
+		"JavaScript" : "65",
+		"AWS" : "97"
+	}
+}
