@@ -2,14 +2,14 @@
 	"title" : "Services",
 	"services" : [
 		{
-			"icon" : "pencil-ruler",
+			"icon" : "laptop-code",
 			"title" : "Web Development",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"description" : "Fullstack web development, beautiful mobile and desktop optimized frontends, scalable and reliable backends, realization of web appearances."
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Prototyping",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon" : "shipping-fast",
+			"title" : "Application Prototyping",
+			"description" : "Fast prototyping of applications and websites using PWA approaches and hybrid frameworks."
 		}
 	]
 }

@@ -2,20 +2,38 @@
 	"title" : "Experience",
 	"experience" : [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uplyft",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Nov 2020 - April 2021",
+			"company" : "Uplyft Loyalty",
+			"website": "https://www.uplyft.com",
+			"position": "Tech Lead & Product Owner",
+			"description" : "Prioritization and specification of features, creation of design mockups and infrastructure concepts, and fullstack development."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
+			"timeperiod" : "Oct 2019 - Feb 2020",
 			"company" : "Payback",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"position": "Self-employed",
+			"description" : "Development of a prototype iPad Application for Payback / Hospitality Digital using NativeScript and Vue.js to allow the self-service collection of loyalty points in participating shops and cafés."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Payback",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod" : "Nov 2018 - Oct 2020",
+			"company" : "Uplyft Loyalty",
+			"website": "https://www.uplyft.com",
+			"position": "Fullstack Web Developer",
+			"description" : "Fullstack Development of the Uplyft and Fanmiles platforms using VueJS, NodeJS, Typescript, AWS Lambda Functions, and Serverless."
+		},
+		{
+			"timeperiod" : "Oct 2016 - Oct 2018",
+			"company" : "stomt",
+			"website": "https://www.stomt.com",
+			"position": "Fullstack Web Developer",
+			"description" : "Fullstack Web Developer. Fullstack development of \"STOMT\" using AngularJS, Laravel, Bootstrap and related technologies."
+		},
+		{
+			"timeperiod" : "Sept 2014 - May 2016",
+			"company" : "ONE LOGIC GmbH",
+			"website": "https://www.onelogic.de/",
+			"position": "Frontend Web Developer",
+			"description" : "Frontend Web Developer. Development of Web Applications using AngularJS, Material Design, Node.js and related technologies."
 		}
 	]
 }

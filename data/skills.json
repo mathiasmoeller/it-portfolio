@@ -3,7 +3,12 @@
 	"skills" : {
 		"Vue.js" : "90",
 		"TypeScript" : "80",
-		"JavaScript" : "65",
-		"AWS" : "97"
+		"Node.js" : "75",
+		"Laravel" :  "50",
+		"AWS" : "70",
+		"RDS" :  "40",
+		"GraphQL" :  "80",
+		"CI/CD" :  "60",
+		"Serverless" :  "60"
 	}
 }
