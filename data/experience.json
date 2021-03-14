@@ -19,21 +19,21 @@
 			"company" : "Uplyft Loyalty",
 			"website": "https://www.uplyft.com",
 			"position": "Fullstack Web Developer",
-			"description" : "Fullstack Development of the Uplyft and Fanmiles platforms using VueJS, NodeJS, Typescript, AWS Lambda Functions, and Serverless."
+			"description" : "Fullstack development of the Uplyft and Fanmiles platforms using VueJS, NodeJS, Typescript, AWS Lambda Functions, and Serverless."
 		},
 		{
 			"timeperiod" : "Oct 2016 - Oct 2018",
 			"company" : "stomt",
 			"website": "https://www.stomt.com",
 			"position": "Fullstack Web Developer",
-			"description" : "Fullstack Web Developer. Fullstack development of \"STOMT\" using AngularJS, Laravel, Bootstrap and related technologies."
+			"description" : "Fullstack development of \"STOMT\" using AngularJS, Laravel, Bootstrap and related technologies."
 		},
 		{
 			"timeperiod" : "Sept 2014 - May 2016",
 			"company" : "ONE LOGIC GmbH",
 			"website": "https://www.onelogic.de/",
 			"position": "Frontend Web Developer",
-			"description" : "Frontend Web Developer. Development of Web Applications using AngularJS, Material Design, Node.js and related technologies."
+			"description" : "Development of Web Applications using AngularJS, Material Design, Node.js and related technologies."
 		}
 	]
 }
