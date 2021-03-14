@@ -1,14 +1,41 @@
 {
-	"title" : "Skills",
-	"skills" : {
-		"Vue.js" : "90",
-		"TypeScript" : "80",
-		"Node.js" : "75",
-		"Laravel" :  "50",
-		"AWS" : "70",
-		"RDS" :  "40",
-		"GraphQL" :  "80",
-		"CI/CD" :  "60",
-		"Serverless" :  "60"
-	}
+  "title": "Skills",
+  "skills": [
+    {
+      "name": "Vue.js",
+      "value": "90"
+    },
+    {
+      "name": "TypeScript",
+      "value": "80"
+    },
+    {
+      "name": "Node.js",
+      "value": "75"
+    },
+    {
+      "name": "Laravel",
+      "value": "50"
+    },
+    {
+      "name": "AWS",
+      "value": "70"
+    },
+    {
+      "name": "RDS",
+      "value": "40"
+    },
+    {
+      "name": "GraphQL",
+      "value": "80"
+    },
+    {
+      "name": "CI/CD",
+      "value": "60"
+    },
+    {
+      "name": "Serverless",
+      "value": "60"
+    }
+  ]
 }
